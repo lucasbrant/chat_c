@@ -1,2 +1,2 @@
 # chat_c
-Um pequeno chat estilo "twitter", com repasse de mensagens por meio de tags, feito em C++.
+Um pequeno chat estilo "twitter", no qual mensagens sao repassadas com base em suas tags. Feito em C++.
