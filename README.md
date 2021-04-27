@@ -1,2 +1,2 @@
 # Chat C++
-Um pequeno chat estilo "twitter", no qual mensagens sao repassadas com base em suas tags. Feito em C++.
+Um pequeno chat estilo "twitter", com mensagens repassadas atraves do protocolo HTTP usando a biblioteca POSIX. Feito em C++.
